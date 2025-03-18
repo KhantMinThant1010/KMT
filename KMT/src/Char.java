@@ -17,5 +17,6 @@ public class Char {
         } else {
             System.out.println("The character is a special symbol.");
         }
+        System.out.println("What the sigma");
     }
 }
